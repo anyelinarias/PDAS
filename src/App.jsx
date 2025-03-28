@@ -13,7 +13,7 @@ function App() {
      <div className="conteiner">
       <section className="section">
       <div className="columns">
-        <div className="columns is-4">
+        <div className="column is-4">
           <ProfileCard 
           title="Alexa"
           handle="@alexa24"
@@ -21,10 +21,10 @@ function App() {
           />
         </div>
         <div className="column is-4">
-          <ProfileCard />
+          <ProfileCard/>
         </div>
         <div className="column is-4">
-          <ProfileCard />
+          <ProfileCard/>
         </div>
       </div>
       </section>
